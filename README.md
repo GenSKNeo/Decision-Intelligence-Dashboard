@@ -55,7 +55,7 @@ f. Pleaase watch the revenue chart; while the mock feed crosses 1,000,000 the co
 
 |Start Node| ---- |Revenue Check Node|  ----- ( If revenue > $1M) -- then --- |Trigger Expansion Node| else ----- | Hold |
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 
